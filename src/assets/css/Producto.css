@@ -1,0 +1,27 @@
+#producto{
+    width: 90%;
+    padding-top: 5%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: large;
+    
+}
+
+#barra{
+    width: 100%;
+    height: 60px;
+    background-color: mediumturquoise;
+
+
+}
+
+#image{
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+}
+
+#Link{
+    color: black;
+}
